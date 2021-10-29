@@ -75,3 +75,11 @@ docker run -it --name samba -p 445:445 -v /home:/mount -d dperson/samba -u "chj;
 docker update --restart=always 容器id
 ```
 
+
+
+# git查看当前分支名称
+
+```shell
+git rev-parse --abbrev-ref HEAD
+```
+
