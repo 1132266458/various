@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a789ef94-33c8-4b25-a72d-f9e499061ce4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/demo1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/demo2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/demo3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../linux.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../区块链/架构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bytebufferpool" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -100,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -109,22 +105,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="986" y="484" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1635495843532" />
-    <state width="2507" height="386" key="GridCell.Tab.0.bottom" timestamp="1635490103360">
+    <state x="1007" y="396" key="FileChooserDialogImpl" timestamp="1635564834074">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2507" height="386" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1635490103360" />
-    <state width="2507" height="386" key="GridCell.Tab.0.center" timestamp="1635490103360">
+    <state x="1007" y="396" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1635564834074" />
+    <state width="2507" height="386" key="GridCell.Tab.0.bottom" timestamp="1635504068825">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2507" height="386" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1635490103360" />
-    <state width="2507" height="386" key="GridCell.Tab.0.left" timestamp="1635490103360">
+    <state width="2507" height="386" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1635504068825" />
+    <state width="2507" height="386" key="GridCell.Tab.0.center" timestamp="1635504068825">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2507" height="386" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1635490103360" />
-    <state width="2507" height="386" key="GridCell.Tab.0.right" timestamp="1635490103360">
+    <state width="2507" height="386" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1635504068825" />
+    <state width="2507" height="386" key="GridCell.Tab.0.left" timestamp="1635504068825">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2507" height="386" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1635490103360" />
+    <state width="2507" height="386" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1635504068825" />
+    <state width="2507" height="386" key="GridCell.Tab.0.right" timestamp="1635504068825">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2507" height="386" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1635504068825" />
     <state x="859" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1635492480207">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
