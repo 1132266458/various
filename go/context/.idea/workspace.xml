@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d29ff7e-a6da-48a0-976d-548fdb85f653" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89194ac1-fe76-4a81-a1e3-27060616930d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design_pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../design_pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go.md" beforeDir="false" afterPath="$PROJECT_DIR$/../go.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="20ISQXz1KFCKBdIFm931lJqbuLG" />
+  <component name="ProjectId" id="20cxKd6t3guTQcy4TePBCz8rYCY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,21 +52,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../go-vue-api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="go build various/go/design_pattern" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="design_pattern" />
+    <configuration name="go build various/go/context" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="context" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/simplefactory.go" />
-      <package value="various/go/design_pattern" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="various/go/context" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build various/go/design_pattern" />
+        <item itemvalue="Go Build.go build various/go/context" />
       </list>
     </recent_temporary>
   </component>
@@ -83,27 +85,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1007" y="396" key="FileChooserDialogImpl" timestamp="1635904285230">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1007" y="396" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1635904285230" />
-    <state width="2507" height="386" key="GridCell.Tab.0.bottom" timestamp="1635731018673">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2507" height="386" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1635731018673" />
-    <state width="2507" height="386" key="GridCell.Tab.0.center" timestamp="1635731018673">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2507" height="386" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1635731018673" />
-    <state width="2507" height="386" key="GridCell.Tab.0.left" timestamp="1635731018673">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2507" height="386" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1635731018673" />
-    <state width="2507" height="386" key="GridCell.Tab.0.right" timestamp="1635731018673">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2507" height="386" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1635731018673" />
   </component>
 </project>

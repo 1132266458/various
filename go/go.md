@@ -59,3 +59,5 @@ golang中的import name，实际是到GOPATH中去寻找name.a, 使用时是该n
  2.同一个目录中所有的go文件的package声明必须相同，所以main方法要单独放一个文件，否则在eclipse和liteide中都会报错；
 ```
 
+
+
